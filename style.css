@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background-color: pink;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.nameOfObjects {
+    color: teal;
+}
+
+#camera {
+    border: 2px dashed aqua;
+    width: 350px;
+    height: 300px;
+}
+
+#resultObjectName {
+    color: darkcyan;
+}
+
+#resultObjectAccuracy {
+    color: darkcyan;
+}
